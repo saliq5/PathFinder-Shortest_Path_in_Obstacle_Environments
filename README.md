@@ -9,7 +9,7 @@ path-planning problem. Furthermore, for multi-agent path
 planning, we plan to implement Conflict-Based Search (CBS), a specialized algorithm that focuses on resolving conflicts
 and achieving efficient coordination among multiple agents in
 dynamic environments. This addition will allow us to explore
-the feasibility and effectiveness of CBS in solving the multiagent path planning problem. Through our implementation and
+the feasibility and effectiveness of CBS in solving the multiagent path planning problem. Through our implementation and
 analysis of these various meta-heuristic approaches, we aim
 to gain insights into their strengths, limitations, and potential
 applications for solving path-planning problems in obstaclerich environments
